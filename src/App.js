@@ -5,7 +5,7 @@ import Counter from './components/Counter.js';
 
 function App() {
   return (
-    <Counter />
+    <Counter status='manual' />
   );
 }
 
